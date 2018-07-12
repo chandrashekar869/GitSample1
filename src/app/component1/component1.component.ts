@@ -10,6 +10,7 @@ export class COMPONENT1Component implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    newFunctionality();
   }
 
 }
