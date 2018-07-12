@@ -11,6 +11,7 @@ export class COMPONENT1Component implements OnInit {
 
   ngOnInit() {
     newFunctionality();
+    Functionality1();
   }
 
 }
